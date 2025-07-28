@@ -1,4 +1,4 @@
-# Smart Honeypot System with Threat Categorization (macOS Edition)
+# Smart Honeypot System with Threat Categorization
 
 ## 📌 Overview
 Detect and classify SSH attacks using Cowrie, Python log parsing, threat classification, and OSINT APIs.
